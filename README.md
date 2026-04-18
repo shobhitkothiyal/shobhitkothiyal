@@ -16,8 +16,28 @@
 ---
 
 ## ⚡ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,git,github,vscode,postman" />
+
+### 🧑‍💻 Languages & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html" /> HTML  
+  <img src="https://skillicons.dev/icons?i=css" /> CSS  
+  <img src="https://skillicons.dev/icons?i=js" /> JavaScript  
+  <img src="https://skillicons.dev/icons?i=react" /> React.js  
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js  
+  <img src="https://skillicons.dev/icons?i=express" /> Express.js  
+  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB  
+</p>
+
+### 🛠️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git" /> Git  
+  <img src="https://skillicons.dev/icons?i=github" /> GitHub  
+  <img src="https://skillicons.dev/icons?i=vscode" /> VS Code  
+  <img src="https://skillicons.dev/icons?i=postman" /> Postman  
 </p>
 
 ---
