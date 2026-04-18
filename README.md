@@ -18,29 +18,39 @@
 ## ⚡ Tech Stack
 
 ### 🧑‍💻 Languages & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html" /> HTML  
-  <img src="https://skillicons.dev/icons?i=css" /> CSS  
-  <img src="https://skillicons.dev/icons?i=js" /> JavaScript  
-  <img src="https://skillicons.dev/icons?i=react" /> React.js  
-  <img src="https://skillicons.dev/icons?i=tailwind" /> Tailwind CSS  
-  <img src="https://skillicons.dev/icons?i=bootstrap" /> Bootstrap  
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" /><br/>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" /><br/>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" /><br/>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" /><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" /><br/>Bootstrap</td>
+</tr>
+</table>
+
+---
 
 ### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js  
-  <img src="https://skillicons.dev/icons?i=express" /> Express.js  
-  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB  
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" /><br/>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
+</tr>
+</table>
+
+---
 
 ### 🛠️ Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=git" /> Git  
-  <img src="https://skillicons.dev/icons?i=github" /> GitHub  
-  <img src="https://skillicons.dev/icons?i=vscode" /> VS Code  
-  <img src="https://skillicons.dev/icons?i=postman" /> Postman  
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" /><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" /><br/>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" /><br/>Postman</td>
+</tr>
+</table>
 
 ---
 
