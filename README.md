@@ -17,27 +17,31 @@
 
 ## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+### 🧑‍💻 Languages & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html" /> HTML  
+  <img src="https://skillicons.dev/icons?i=css" /> CSS  
+  <img src="https://skillicons.dev/icons?i=js" /> JavaScript  
+  <img src="https://skillicons.dev/icons?i=react" /> React.js  
+  <img src="https://skillicons.dev/icons?i=tailwind" /> Tailwind CSS  
+  <img src="https://skillicons.dev/icons?i=bootstrap" /> Bootstrap  
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js  
+  <img src="https://skillicons.dev/icons?i=express" /> Express.js  
+  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB  
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+### 🛠️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git" /> Git  
+  <img src="https://skillicons.dev/icons?i=github" /> GitHub  
+  <img src="https://skillicons.dev/icons?i=vscode" /> VS Code  
+  <img src="https://skillicons.dev/icons?i=postman" /> Postman  
 </p>
 
----
-
-<p align="center">
-  <b>Frontend:</b> HTML • CSS • JavaScript • React • Tailwind • Bootstrap  
-  <br/>
-  <b>Backend:</b> Node.js • Express.js • MongoDB  
-  <br/>
-  <b>Tools:</b> Git • GitHub • VS Code • Postman
-</p>
 ---
 
 ## 🚀 Featured Projects
