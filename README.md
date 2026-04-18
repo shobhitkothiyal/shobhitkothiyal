@@ -1,45 +1,78 @@
 <h1 align="center">Hi 👋, I'm Shobhit Kothiyal</h1>
-<h3 align="center">🚀 Full Stack MERN Developer</h3>
+<h3 align="center">🚀 Full Stack MERN Developer | Building Scalable Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Backend+Enthusiast;Always+Learning+New+Tech&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+MERN+Developer;Backend+Focused+Engineer;Clean+Code+Advocate;Always+Learning+New+Tech&center=true&width=600&height=45">
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🚀 Full Stack Developer with hands-on experience in MERN stack  
-- 💻 Skilled in MongoDB, Express.js, React.js, Node.js  
-- ⚡ Focused on building scalable & clean backend systems  
-- 🌱 Currently learning System Design & Advanced Backend  
-- 🎯 Goal: Crack a good product-based company  
+## 🧑‍💻 About Me
+🚀 I am a Full Stack MERN Developer with hands-on experience in building high-performance, scalable web applications.  
+💡 I focus on writing clean, maintainable code and designing efficient backend systems.  
+📈 Currently improving my skills in **System Design, Backend Optimization, and API Development**.  
+🎯 Actively seeking opportunities as a **MERN Stack Developer**.
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## ⚡ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shobhitkothiyal&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhitkothiyal&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,git,github,vscode,postman" />
 </p>
 
 ---
 
-### 🚀 Projects
-- 🛒 E-Commerce App (MERN + Payments)
-- 📱 Intern Management Software System (Full Stack) 
+## 🚀 Featured Projects
+🔹 **E-Commerce App**  
+- Full-stack MERN application with authentication & payments  
+- REST APIs, secure login, product management  
+
+🔹 **Intern Software Management System (ISMS)**  
+- Real-time features, user authentication, post system  
+- Optimized backend with Python  
+
+👉 *Check pinned repositories for live demos*
 
 ---
 
-### 🔗 Connect with Me
-- 📧 Email: shobhitkothiyal2@gmail.com
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhitkothiyal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhitkothiyal&theme=tokyonight" />
+</p>
 
 ---
 
-⭐️ From Shobhit Kothiyal
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shobhitkothiyal&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitkothiyal&theme=react-dark" />
+</p>
+
+---
+
+## 🔥 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shobhitkothiyal/shobhitkothiyal/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+
+  <a href="mailto:shobhitkothiyal2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+</p>
+
+---
+
+⭐️ From Shobhit Kothiyal | Turning Ideas into Reality 🚀
