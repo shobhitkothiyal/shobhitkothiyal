@@ -33,15 +33,12 @@
 
 ### 🚀 Projects
 - 🛒 E-Commerce App (MERN + Payments)
-- 📱 Social Media App (Full Stack)
-- ✅ Task Manager App  
+- 📱 Intern Management Software System (Full Stack) 
 
 ---
 
 ### 🔗 Connect with Me
-- 💼 LinkedIn: add-your-link
-- 🌐 Portfolio: add-your-link
-- 📧 Email: your-email@example.com
+- 📧 Email: shobhitkothiyal2@gmail.com
 
 ---
 
