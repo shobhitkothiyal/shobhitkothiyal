@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shobhit Kothiyal</h1>
+<h3 align="center">🚀 Full Stack MERN Developer</h3>
 
-<!--
-**shobhitkothiyal/shobhitkothiyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Backend+Enthusiast;Always+Learning+New+Tech&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+- 🚀 Full Stack Developer with hands-on experience in MERN stack  
+- 💻 Skilled in MongoDB, Express.js, React.js, Node.js  
+- ⚡ Focused on building scalable & clean backend systems  
+- 🌱 Currently learning System Design & Advanced Backend  
+- 🎯 Goal: Crack a good product-based company  
+
+---
+
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhitkothiyal&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhitkothiyal&theme=radical" />
+</p>
+
+---
+
+### 🚀 Projects
+- 🛒 E-Commerce App (MERN + Payments)
+- 📱 Social Media App (Full Stack)
+- ✅ Task Manager App  
+
+---
+
+### 🔗 Connect with Me
+- 💼 LinkedIn: add-your-link
+- 🌐 Portfolio: add-your-link
+- 📧 Email: your-email@example.com
+
+---
+
+⭐️ From Shobhit Kothiyal
